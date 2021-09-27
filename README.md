@@ -1,4 +1,4 @@
-# Security Audit
+# Alkemi Earn - Security Audit
 
 ## Audit Details
 This audit took place in August 2021 and covers all the Solidity contracts in the MainNet deployment of the Alkemi Earn protocol.
